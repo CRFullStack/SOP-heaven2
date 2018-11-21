@@ -1,0 +1,67 @@
+﻿.container-fluid {
+    padding: 10px;
+}
+
+.start-hidden {
+    display: none;
+}
+
+.display-it {
+    display: block;
+}
+
+p {
+    padding: 16px 32px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+    background-color: lightgray;
+    color: #E51636;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    /* #4CAF50; Green */
+    background-color: mediumpurple;/*#4CAF50; Green */
+    color: white;
+    padding: 16px 32px;
+}
+
+
+button.prime {
+    width: 50%;
+    background-color: dodgerblue;
+    color: white !important;
+}
+button.prime2 {
+    background-color: dodgerblue;
+    color: white !important;
+}
+
+button.cfa-red {
+    width: 55%;
+    background-color: #E51636; /*cfa-red*/
+    color: white !important; 
+}
+
+button.cfa-red2 {
+    background-color: #E51636; /*cfa-red*/
+    color: white !important;
+}
+
+
+.active {
+    background-color: ghostwhite;
+}
+
+img {
+    border-radius: 30px;
+    padding: 16px;
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;float: right;*/
+    max-width: 20px;
+    width: 75em;    
+}
